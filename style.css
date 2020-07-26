@@ -1,0 +1,97 @@
+.btn1{
+    padding: 10px 20px;
+    /* width: 150px; */
+    margin-left: 5px;
+   /* font-size: medium; */
+
+
+}
+.btn12{
+    padding: 10px 20px;
+    /* width: 150px; */
+    margin-left: auto;
+   /* font-size: medium; */
+
+
+}
+
+body{
+    background-image:url(hbhdb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+}
+
+.main{
+background-image: url(images.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+    box-shadow:  10px 10px 5px gray;
+    margin: 50px;
+    height: 80vh;
+    width: 700px;
+    
+    overflow: scroll;
+}
+
+.main1{
+    
+    margin: 130px 30px 30px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.main12{
+
+    position: fixed;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+
+}
+
+.input1{
+    padding: 0 15px;
+    margin: 30px;
+    width: 300px;
+    font-size: 15px;
+    height: 35px;
+}
+ul{
+    width: 100%;
+    list-style: none;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
